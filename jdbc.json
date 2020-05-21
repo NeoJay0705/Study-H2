@@ -1,0 +1,11 @@
+{
+    "database": "h2",
+    "connectionMode": "tcp",
+    "dbPath": "//localhost:8001/",
+    "dbName": "test_1.0",
+    "username": "sa",
+    "password": "",
+    "otherParameters":{
+        "IFEXISTS": true
+    }
+}
